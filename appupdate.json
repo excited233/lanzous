@@ -1,10 +1,10 @@
 {
 "updateTime":"2020.07.22",
-"newVersionCode":"7",
-"newVersionName":"1.0.7_demo",
+"newVersionCode":"8",
+"newVersionName":"1.0.8_demo",
 "minVersionCode":"0",
 "information":"本次更新包含功能和质量更新。",
-"content":"1.2.4.1<br>现可在设置中调整单页加载限制<br>在图片浏览页切换小窗等操作不会短暂黑屏了<br>其他细节优化<br>1.2.4<br>优化 视觉效果更新<br>优化 支持自适应图标<br>新增 查看机型代号专属壁纸<br>修复 壁纸包链接加载失败的问题",
-"url":"https://too-young.lanzoui.com/iFEuIql2oeh",
+"content":"优化文件上传，支持显示进度<br>修复上传文件卡顿问题<br>新增首页以列表当时显示",
+"url":"https://too-young.lanzoui.com/iBPHJrqky3a",
 "donate_list":"暂无内容..."
 }
