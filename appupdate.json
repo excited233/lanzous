@@ -1,7 +1,7 @@
 {
 "updateTime":"2020.07.28",
 "newVersionCode":"15",
-"newVersionName":"1.1.5",
+"newVersionName":"1.1.4",
 "minVersionCode":"0",
 "information":"本次更新包含功能和质量更新。",
 "content":"修复 Android 9 无法上传文件问题<br>修复部分 Android 原生文件管理器无法选择文件问题<br>调整调试信息尺寸<br>移除更新完成提示",
