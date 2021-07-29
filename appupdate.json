@@ -1,10 +1,10 @@
 {
-"updateTime":"2020.07.28",
-"newVersionCode":"15",
-"newVersionName":"1.1.4",
+"updateTime":"2020.07.29",
+"newVersionCode":"16",
+"newVersionName":"1.1.4.1",
 "minVersionCode":"0",
 "information":"本次更新包含功能和质量更新。",
-"content":"修复 Android 9 无法上传文件问题<br>修复部分 Android 原生文件管理器无法选择文件问题<br>调整调试信息尺寸<br>移除更新完成提示",
-"url":"https://too-young.lanzoui.com/iUraOrxroef",
+"content":"新增首页布局选择功能<br>更新了应用申明<br>移除首页以列表显示<br>优化加载少量文件的文件夹流畅度<br>修复了一些已知 bug<br>修复应用后台被杀后返回应用无响应的问题",
+"url":"https://too-young.lanzoui.com/iF0nBs0anta",
 "donate_list":"暂无内容..."
 }
