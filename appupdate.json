@@ -3,6 +3,10 @@
 "newApiVersion":"5",
 "newVersionCode":"90",
 "newVersionName":"1.2.1",
+"featureUpdateVersion":"91",
+"versionDescription":[
+{"versionCode":91 , "description" : "暂无更新说明"}
+],
 "minVersionCode":"0",
 "information":"本次更新包含功能和质量更新",
 "content":"更新内容请更新后查看更新日志<b><br>1.1.8.6.5及以下版本</>无法使用蓝云直链解析服务，更新至最新版本即可解决问题，更新后需在设置中重新启用蓝云直链解析服务<b><br>1.1.8.5.2及以下版本</>更新至新版本会清除应用数据，升级前请注意备份<b><br>1.1.7 至 1.1.7.3 版本</>请在设置中关闭第三方 API 能力再下载更新<b><br>1.1.7 以下版本</>请自行复制链接下载安装：https://lanzoui.com/b083z1nsj",
