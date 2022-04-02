@@ -5,7 +5,8 @@
 "newVersionName":"1.2.1",
 "featureUpdateVersion":"91",
 "versionDescription":[
-{"versionCode":91 , "description" : "暂无更新说明"}
+{"versionCode":10000 , "description" : "更新内容请更新后查看更新日志"},
+{"versionCode":0 , "description" : "暂无更新说明"}
 ],
 "minVersionCode":"0",
 "url":"https://too-young.lanzoub.com/iJPqg01x5kni",
