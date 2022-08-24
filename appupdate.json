@@ -6,6 +6,7 @@
 "newVersionName":"1.2.6.12",
 "versionDescription":[
 {"versionCode":10000 , "description" : "更新内容请更新后查看更新日志"},
+{"versionCode":121 , "description" : "由于 Android 11 及以上版本使用此版本可能出现黑屏问题，已暂停此版本更新"},
 {"versionCode":106 , "description" : "本次更新修复了蓝云直链解析服务，更新前请关闭此功能否则会下载失败"},
 {"versionCode":104 , "description" : "由于数据加密方式变更，更新后将不能使用旧版本的备份码；建议此次更新后清除数据再使用"},
 {"versionCode":95 , "description" : "修复了 1.2.3.1 启动报错的问题"},
