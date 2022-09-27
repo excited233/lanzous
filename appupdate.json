@@ -2,7 +2,7 @@
 "updateTime":"2022-09-27",
 "newApiVersion":"10",
 "featureUpdateVersion":"130",
-"newVersionCode":"130",
+"newVersionCode":"129",
 "newVersionName":"1.2.7.4",
 "message":[
 {"id":1 , "show":true , "startVersionCode":1 , "endVersionCode":10000 , "title" : "提示" , "message" : "如遇修改文件备注报错问题，请在<b>设置-链接与下载</>中将蓝奏云域名改为<b>pc.woozooo.com</>" , "date":"2022-09-27"},
