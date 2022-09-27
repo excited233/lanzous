@@ -4,6 +4,10 @@
 "featureUpdateVersion":"127",
 "newVersionCode":"129",
 "newVersionName":"1.2.7.3",
+"message":[
+{"id":1 , "show":true , "startVersionCode":1 , "endVersionCode":false , "message" : "如遇修改文件备注报错问题，请在设置-链接与下载中将蓝奏云域名改为pc.woozooo.com" , "date":"2022-09-27"},
+{"id":2 , "show":true , "startVersionCode":1 , "endVersionCode":false , "message" : "清空回收站功能暂时失效，可逐个删除" , "date":"2022-09-27"},
+],
 "versionDescription":[
 {"versionCode":10000 , "description" : "更新内容请更新后查看更新日志"},
 {"versionCode":106 , "description" : "本次更新修复了蓝云直链解析服务，更新前请关闭此功能否则会下载失败"},
