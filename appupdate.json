@@ -5,6 +5,7 @@
 "newVersionCode":"131",
 "newVersionName":"1.2.7.5",
 "message":[
+{"id":3 , "show":true , "startVersionCode":1 , "endVersionCode":10000 , "title" : "蓝奏云公告" , "message" : "[升级公告]10月19至10月26日，视频，图片,PDF等格式暂停上传" , "date":"2022-10-19"},
 {"id":1 , "show":true , "startVersionCode":1 , "endVersionCode":10000 , "title" : "提示" , "message" : "如遇修改文件备注报错问题，请在<b>设置-链接与下载</>中将蓝奏云域名改为<b>pc.woozooo.com</>" , "date":"2022-09-27"},
 {"id":2 , "show":true , "startVersionCode":1 , "endVersionCode":10000 , "title" : "提示" , "message" : "清空回收站功能暂时失效，可逐个删除" , "date":"2022-09-27"},
 ],
