@@ -3,7 +3,7 @@
 "newApiVersion":"10",
 "featureUpdateVersion":"135",
 "newVersionCode":"135",
-"newVersionName":"1.2.8.4",
+"newVersionName":"1.2.8.3",
 "message":[
 {"id":3 , "show":false , "startVersionCode":1 , "endVersionCode":10000 , "title" : "蓝奏云公告" , "message" : "[升级公告]10月19至10月26日，视频，图片,PDF等格式暂停上传" , "date":"2022-10-19"},
 {"id":1 , "show":true , "startVersionCode":1 , "endVersionCode":10000 , "title" : "提示" , "message" : "如遇修改文件备注报错问题，请在<b>设置-链接与下载</>中将蓝奏云域名改为<b>pc.woozooo.com</>" , "date":"2022-09-27"},
@@ -11,6 +11,7 @@
 ],
 "versionDescription":[
 {"versionCode":10000 , "description" : "更新内容请更新后查看更新日志。安装更新后重启应用以应用更新。"},
+{"versionCode":135 , "description" : "建议此次更新后清除数据再使用"},
 {"versionCode":106 , "description" : "本次更新修复了蓝云直链解析服务，更新前请关闭此功能否则会下载失败"},
 {"versionCode":104 , "description" : "由于数据加密方式变更，更新后将不能使用旧版本的备份码；建议此次更新后清除数据再使用"},
 {"versionCode":95 , "description" : "修复了 1.2.3.1 启动报错的问题"},
