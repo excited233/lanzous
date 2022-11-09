@@ -11,7 +11,7 @@
 ],
 "versionDescription":[
 {"versionCode":10000 , "description" : "更新内容请更新后查看更新日志。安装更新后重启应用以应用更新。"},
-{"versionCode":135 , "description" : "建议此次更新后清除数据再使用"},
+{"versionCode":135 , "description" : "建议此次更新后重置应用再使用"},
 {"versionCode":106 , "description" : "本次更新修复了蓝云直链解析服务，更新前请关闭此功能否则会下载失败"},
 {"versionCode":104 , "description" : "由于数据加密方式变更，更新后将不能使用旧版本的备份码；建议此次更新后清除数据再使用"},
 {"versionCode":95 , "description" : "修复了 1.2.3.1 启动报错的问题"},
