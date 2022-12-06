@@ -5,7 +5,7 @@
 "newVersionCode":"140",
 "newVersionName":"1.2.9",
 "message":[
-{"id":4 , "show":true , "startVersionCode":1 , "endVersionCode":10000 , "title" : "重要告知" , "message" : "应用通过 GitHub 来检测更新。由于 GitHub 近日被运营商及防火墙封堵，将导致应用无法检测更新。你可通过出境或在关于中使用“历史版本下载”来检查更新。" , "date":"2022-12-06"},
+{"id":4 , "show":true , "startVersionCode":1 , "endVersionCode":10000 , "title" : "重要告知" , "message" : "应用通过 GitHub 来检测更新。由于 GitHub 近日被运营商及防火墙封堵，将导致应用无法检测更新。你可在关于中使用“历史版本下载”来自行检查更新。" , "date":"2022-12-06"},
 {"id":1 , "show":true , "startVersionCode":1 , "endVersionCode":10000 , "title" : "提示" , "message" : "如遇修改文件备注报错问题，请在<b>设置-链接与下载</>中将蓝奏云域名改为<b>pc.woozooo.com</>" , "date":"2022-09-27"},
 ],
 "versionDescription":[
